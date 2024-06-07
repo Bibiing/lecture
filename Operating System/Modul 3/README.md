@@ -169,7 +169,9 @@ for(int i = 0; i < num; i++){
 - `send(new_socket, msg, strlen(msg), 0)` mengirimkan msg jika username belum tersedia.
 
 #### Output
-![task 2](https://github.com/nabil1407/nabil1407.github.io/blob/main/foto/3_2_a.png)
+![task 2](https://drive.google.com/uc?id=1wtaYVC7aKT77zsXurJuGUdhyaP1fWlSE)
+
+
 
 ### Poin B
 Setiap client akan diberikan prompt untuk mengetikkan service yang dibutuhkan yaitu container name, img, command, volme. Urutan client yang mengirimkan request service ke server sesuai urutan.
@@ -218,7 +220,7 @@ for(int i = 0; i < num; i++){
 - `send(new_socket, msg, strlen(msg), 0)` mengirimkan msg ke client.
 
 #### Output
-![task 2](https://github.com/nabil1407/nabil1407.github.io/blob/main/foto/3_2_b.png)
+![task 2](https://drive.google.com/uc?id=1tyU67k4jHsUxgNkwtr6aYiGz50g01IEN)
 
 ### Poin C
 server menggabungkansetiap service menjadi sebuah file docker compose. lalu file docker compose yang dibuat dijalankan.
@@ -261,7 +263,7 @@ if (pid == 0) {
 - `wait(NULL)` menunggu child process selesai.
 
 #### Output
-![task 2](https://github.com/nabil1407/nabil1407.github.io/blob/main/foto/3_2_c.png)
+![task 2](https://drive.google.com/uc?id=1QZ8JuapZ-w3_mf0AyoqRYcKbC_IL80QM)
 
 
 ### Poin D
@@ -353,5 +355,6 @@ if (pid == -1) {
 - `char *args[] = {"docker-compose", "-f", "new-docker-compose.yml", "up", "-d", NULL}` argumen untuk menjalankan docker compose baru.
 
 #### Output
-![task 2](https://github.com/nabil1407/nabil1407.github.io/blob/main/foto/3_2_d.png)
-![task 2](https://github.com/nabil1407/nabil1407.github.io/blob/main/foto/3_2_d_docker.png)
+![task 2](https://drive.google.com/uc?id=1OLf3E1qevzbYYN9Z8ATw_eNf9rYAxCTS)
+![task 2](https://drive.google.com/uc?id=1MZ68BvU6tUwEgHSTLWCbufNpmoFcdwJC)
+
