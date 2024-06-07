@@ -1,0 +1,4 @@
+0 */5 * * * ~/Desktop/praktikum/sisiop/task-4/isabel.sh download_images
+0 */10 * * * ~/Desktop/praktikum/sisiop/task-4/isabel.sh create_zip
+0 2 * * * ~/Desktop/praktikum/sisiop/task-4/isabel.sh cleanup
+0 0 * * * ~/Desktop/praktikum/sisiop/task-4/isabel.sh wibu
