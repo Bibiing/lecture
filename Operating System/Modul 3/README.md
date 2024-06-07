@@ -1,3 +1,7 @@
+### Daftar Soal _(Task List)_
+- [Task 2 - BNBWT](task-2/)
+
+## task 2
 **struct**
 ```
 struct Services{
