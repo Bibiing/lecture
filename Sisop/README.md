@@ -1,1 +1,0 @@
-all operating system tasks
