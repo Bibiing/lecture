@@ -1,3 +1,6 @@
+### Daftar Soal _(Task List)_
+- [Task 1 - TrashOps](/Task\1/)
+
 ## Task 1
 
 ### Main Function
